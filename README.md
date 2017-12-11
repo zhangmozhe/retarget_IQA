@@ -5,7 +5,7 @@ This is the Matlab code for the ICASSP paper 'Registration based retargeted imag
 Under the folder 'retargetme_codes', run the main.m function
 
 ## Folder structure
-Our image retargeting assessment method runs based on the half-way domain image registration, SED edge detection and saliency map. We store all the intermediate results in the folder 'retargetme_data'. Please download this folder and place it under the root directory of the project. The folder is structured as following:
+Our image retargeting assessment method runs based on the half-way domain image registration, SED edge detection and saliency map. We store all the intermediate results in the folder [retargetme_data](https://hkustconnect-my.sharepoint.com/personal/bzhangai_connect_ust_hk/_layouts/15/guestaccess.aspx?docid=0f0140474bd71408f9d85b472f762235f&authkey=AQdwn_GOu1zqJ0w6F33c59M&e=301e1d996c4a4385b63509431f7f598c). Please download this folder and place it under the root directory of the project. The folder is structured as following:
 
 - 'source': all the original image
 - 'resized_source': the resized source image
